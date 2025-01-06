@@ -1,4 +1,4 @@
-import MensPic from "../assets/img/Images/mens.jfif";
+import MensPic from "../assets/img/Images/mens.jpg";
 import KidsPic from "../assets/img/Images/Kids.jpg";
 import WomensPic from "../assets/img/Images/Womens.jpg";
 const categories = [

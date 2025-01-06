@@ -2,7 +2,7 @@ function ContactUs() {
   return (
     <>
       <div className="bg-white mt-2 px-4 md:py-16 lg:px-24">
-        <div className="container-fluid bg-green-100 ms-28 me-28 shadow">
+        <div className="container-fluid bg-green-100 ms-8 me-8 shadow">
           <div className="container my-12 mx-auto px-2 md:px-4">
             <section className="mb-32">
               <div className="flex justify-center">
